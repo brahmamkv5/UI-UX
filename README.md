@@ -13,6 +13,7 @@ Grossories
 Get your grossories at home at afforadable prices
 </p>
 <a href="www.google.com">Search here</a>
+<i>This is italic </i>
 </body>
 </html>
 
