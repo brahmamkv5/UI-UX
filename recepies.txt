@@ -1,0 +1,7 @@
+Open Dominows.com in your browser
+
+
+Browse for pizza types 
+Select a Pizza
+Put an order 
+End
